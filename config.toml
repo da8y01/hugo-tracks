@@ -1,0 +1,4 @@
+baseURL = "http://alejandro-ser.github.io/"
+languageCode = "es-es"
+title = "Artesanos de la Web"
+theme = "tracks"
