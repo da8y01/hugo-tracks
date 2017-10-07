@@ -1,4 +1,4 @@
-baseURL = "http://alejandro-ser.github.io/"
+baseURL = "https://artesanosweb.github.io/hugo-tracks"
 languageCode = "es-es"
 title = "Artesanos de la Web"
 theme = "tracks"
